@@ -16,6 +16,6 @@ require (
 	github.com/sirupsen/logrus v1.4.2
 	github.com/stretchr/testify v1.5.1
 	go.uber.org/zap v1.13.0
-	golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543
+	github.com/golang/xerrors v0.0.0-20191204190536-9bdfabe68543
 	gopkg.in/inconshreveable/log15.v2 v2.0.0-20180818164646-67afb5ed74ec
 )
